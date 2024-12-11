@@ -1,0 +1,591 @@
+{
+  "plants": [
+    {
+      "id": "1",
+      "name": "Spider Plant",
+      "image": "https://png.pngtree.com/png-clipart/20240701/original/pngtree-spider-plant-chlorophytum-comosum-in-white-pot-on-transparent-background-png-image_15458900.png",
+      "image_slider": [
+        "https://png.pngtree.com/png-clipart/20240701/original/pngtree-spider-plant-chlorophytum-comosum-in-white-pot-on-transparent-background-png-image_15458900.png",
+        "https://png.pngtree.com/png-vector/20240721/ourmid/pngtree-spider-plant-chlorophytum-comosum-png-image_13182660.png",
+        "https://png.pngtree.com/png-clipart/20240701/original/pngtree-spider-plant-chlorophytum-comosum-in-white-pot-on-transparent-background-png-image_15458900.png"
+      ],
+      "price": "250.000",
+      "features": "Ưa bóng",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": true,
+      "isHot": true,
+      "created_at": "22/11/2024",
+      "state": 123
+    },
+    {
+      "id": "2",
+      "name": "Song of India",
+      "image": "https://cdn.shopify.com/s/files/1/0260/3037/4957/products/small-plant-song-of-india-seafoam-pot_6b681fe2-e202-418c-8b85-502fc8c7e10e.jpg",
+      "image_slider": [
+        "https://cdn.shopify.com/s/files/1/0260/3037/4957/products/small-plant-song-of-india-seafoam-pot_6b681fe2-e202-418c-8b85-502fc8c7e10e.jpg",
+        "https://cdn.shopify.com/s/files/1/0260/3037/4957/products/small-plant-song-of-india-seafoam-pot_6b681fe2-e202-418c-8b85-502fc8c7e10e.jpg",
+        "https://cdn.shopify.com/s/files/1/0260/3037/4957/products/small-plant-song-of-india-seafoam-pot_6b681fe2-e202-418c-8b85-502fc8c7e10e.jpg"
+      ],
+      "price": "250.000",
+      "features": "Ưa sáng",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "3/1/2024",
+      "state": 13
+    },
+    {
+      "id": "3",
+      "name": "Pink Anthurium",
+      "image": "https://cdn.shopify.com/s/files/1/0513/8032/2473/products/AnthuriumPinkSmall_Glossy_Blush.jpg?v=1710149775",
+      "image_slider": [
+        "https://cdn.shopify.com/s/files/1/0513/8032/2473/products/AnthuriumPinkSmall_Glossy_Blush.jpg?v=1710149775",
+        "https://www.dasosfarms.com/cdn/shop/products/PINKANTHURIUM13_1000x1000.png?v=1619036677",
+        "https://www.dasosfarms.com/cdn/shop/products/PINKANTHURIUM13_1000x1000.png?v=1619036677"
+      ],
+      "price": "250.000",
+      "features": "Ưa bóng",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": true,
+      "isHot": false,
+      "created_at": "4/1/2024",
+      "state": 23
+    },
+    {
+      "id": "4",
+      "name": "Black Love Anthurium",
+      "image": "https://cdn.shopify.com/s/files/1/0260/3037/4957/products/small-plant-black-anthurium-black-pot.jpg",
+      "image_slider": [
+        "https://cdn.shopify.com/s/files/1/0260/3037/4957/products/small-plant-black-anthurium-black-pot.jpg",
+        "https://bouqs.com/media/W1siZiIsIjIwMjQvMDkvMDQvMTQvMjUvMDYvYjg3MmY0YzYtNDc3YS00OGE3LWIyNGEtYjNhMzhiMTZiY2E3L0ZBTEwyNF9CTEFDSyBCRUFVVFlfT1NfQUhfMDcyOV9XZWIuanBnIl1d/FALL24_BLACK%20BEAUTY_OS_AH_0729_Web.jpg?sha=375d238fec2f3a90",
+        "https://cdn.shopify.com/s/files/1/0260/3037/4957/products/small-plant-black-anthurium-black-pot.jpg"
+      ],
+      "price": "250.000",
+      "features": "Ưa bóng",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": true,
+      "isHot": false,
+      "created_at": "22/11/2024",
+      "state": 343
+    },
+    {
+      "id": "5",
+      "name": "Grey Start Calarthea",
+      "image": "https://cdn.shopify.com/s/files/1/0260/3037/4957/products/medium-plant-grey-star-calathea-black-pot.jpg",
+      "image_slider": [
+        "https://cdn.shopify.com/s/files/1/0260/3037/4957/products/medium-plant-grey-star-calathea-black-pot.jpg",
+        "https://cdn.shopify.com/s/files/1/0260/3037/4957/products/medium-plant-grey-star-calathea-home.jpg",
+        "https://cdn.shopify.com/s/files/1/0260/3037/4957/products/medium-plant-grey-star-calathea-black-pot.jpg"
+      ],
+      "price": "250.000",
+      "features": "Ưa bóng",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": true,
+      "isHot": false,
+      "created_at": "22/11/2024",
+      "state": 343
+    },
+    {
+      "id": "6",
+      "name": "Banana Plant",
+      "image": "https://png.pngtree.com/png-vector/20240910/ourmid/pngtree-decorative-banana-plant-in-black-ceramic-pot-png-image_13807546.png",
+      "image_slider": [
+        "https://png.pngtree.com/png-vector/20240910/ourmid/pngtree-decorative-banana-plant-in-black-ceramic-pot-png-image_13807546.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRClr1b6A84pPM_svRPN23qLiY3PYadgUt0Og&s",
+        "https://png.pngtree.com/png-vector/20240910/ourmid/pngtree-decorative-banana-plant-in-black-ceramic-pot-png-image_13807546.png"
+      ],
+      "price": "250.000",
+      "features": "Ưa sáng",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "22/11/2024",
+      "state": 343
+    },
+    {
+      "id": "7",
+      "name": "Sango Palm",
+      "image": "https://png.pngtree.com/png-vector/20240910/ourmid/pngtree-sago-palm-pot-plant-on-window-sill-as-home-interior-png-image_13807549.png",
+      "image_slider": [
+        "https://png.pngtree.com/png-vector/20240910/ourmid/pngtree-sago-palm-pot-plant-on-window-sill-as-home-interior-png-image_13807549.png",
+        "https://png.pngtree.com/png-vector/20240910/ourmid/pngtree-sago-palm-pot-plant-on-window-sill-as-home-interior-png-image_13807549.png",
+        "https://www.thesill.com/cdn/shop/files/the-sill_Large-Sago-Date-Palm_Large_Helena_Cream_Variant.jpg?v=1705968109&width=416"
+      ],
+      "price": "250.000",
+      "features": "Ưa sáng",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "22/11/2024",
+      "state": 343
+    },
+    {
+      "id": "8",
+      "name": "Devil's Lvy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47jWMjXd8gLJCJV3h0I-0IYuKkauD6aFhuw&s",
+      "image_slider": [
+        "https://png.pngtree.com/png-vector/20230906/ourmid/pngtree-cutout-devil-ivy-plant-watercolor-simplicity-painting-png-image_10000288.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy4gL-_G9M1o80hHgmuDFOYn3IRW6bkaO9Sw&s",
+        "https://w7.pngwing.com/pngs/81/862/png-transparent-devil-s-ivy-houseplant-flowerpot-artificial-flower-plant-thumbnail.png"
+      ],
+      "price": "250.000",
+      "features": "Ưa bóng",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "22/11/2024",
+      "state": 343
+    },
+    {
+      "id": "9",
+      "name": "ZZ Plant",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSptWGMDOySMhGyyRVFoNukE1gHJVnGtMTcdw&s",
+      "image_slider": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSptWGMDOySMhGyyRVFoNukE1gHJVnGtMTcdw&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIEm-7eK8F0Emz7qvqQeokccKQYKLJ2dSDeg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSptWGMDOySMhGyyRVFoNukE1gHJVnGtMTcdw&s"
+      ],
+      "price": "250.000",
+      "features": "Ưa bóng",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "1/2/2024",
+      "state": 343
+    },
+    {
+      "id": "10",
+      "name": "Palm",
+      "image": "https://png.pngtree.com/png-vector/20241112/ourlarge/pngtree-decorative-palm-plant-for-indoors-png-image_14393438.png",
+      "image_slider": [
+        "https://png.pngtree.com/png-vector/20241112/ourlarge/pngtree-decorative-palm-plant-for-indoors-png-image_14393438.png",
+        "https://png.pngtree.com/element_our/20190528/ourmid/pngtree-beautiful-potted-plants-for-home-bonsai-image_1159765.jpg",
+        "https://png.pngtree.com/element_our/20190528/ourmid/pngtree-beautiful-potted-plants-for-home-bonsai-image_1159765.jpg"
+      ],
+      "price": "250.000",
+      "features": "Ưa bóng",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "1/2/2024",
+      "state": 398
+    }
+  ],
+  "plant_pots": [
+    {
+      "id": "1",
+      "name": "Planta Trắng",
+      "image": "https://www.veronneau.com/wp-content/uploads/2023/08/144691-144690-1.jpg.webp",
+      "image_slider": [
+        "https://www.veronneau.com/wp-content/uploads/2023/08/144691-144690-1.jpg.webp",
+        "https://images-eu.ssl-images-amazon.com/images/I/61hxBdmtx2L._AC_UL600_SR600,600_.jpg",
+        "https://assets.wfcdn.com/im/87857497/resize-h800-w800%5Ecompr-r85/2243/224375739/Braeden+Ceramic+Pot+Planter.jpg"
+      ],
+      "price": "250.000",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Chậu cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": true,
+      "isHot": true,
+      "created_at": "1/2/2024",
+      "state": 343
+    },
+    {
+      "id": "2",
+      "name": "Planta Lemon Balm",
+      "image": "https://s3-alpha-sig.figma.com/img/740c/be92/30d0e9ed9212eaa46291bb0045a45840?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=D1XgJPMSE6jzfAm1nSblvO8na089-Q9zQ1MobDV4naZOlgmCtU39pg67phTzrLt6do0w2GbdJUBvPcmV~CBXAlx6DweGoSOf-c1ouL2bBowlBHoBA5-zA8FduzaN0uLA2JzEERC~0EOAXSLIakami5HBttG6i8kjth2WWpQLi2Y6W10Z~ehD9rgV1KYwOJVi774hKGyHf~JVRaGzoc-iTB3cH54rLab9MxoSS4Ey66gsy1FJDUcka4k7Qmu8mwAfsa51W~iaQ3Nf8x67qG7vIjFr35L6Mneap4~yrDWuP5Vtcr71xlgK5S~PRooUY2Vo8JbzZ0cLaQPEFvnMhavQxQ__",
+      "image_slider": [
+        "https://s3-alpha-sig.figma.com/img/740c/be92/30d0e9ed9212eaa46291bb0045a45840?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=D1XgJPMSE6jzfAm1nSblvO8na089-Q9zQ1MobDV4naZOlgmCtU39pg67phTzrLt6do0w2GbdJUBvPcmV~CBXAlx6DweGoSOf-c1ouL2bBowlBHoBA5-zA8FduzaN0uLA2JzEERC~0EOAXSLIakami5HBttG6i8kjth2WWpQLi2Y6W10Z~ehD9rgV1KYwOJVi774hKGyHf~JVRaGzoc-iTB3cH54rLab9MxoSS4Ey66gsy1FJDUcka4k7Qmu8mwAfsa51W~iaQ3Nf8x67qG7vIjFr35L6Mneap4~yrDWuP5Vtcr71xlgK5S~PRooUY2Vo8JbzZ0cLaQPEFvnMhavQxQ__",
+        "https://s3-alpha-sig.figma.com/img/740c/be92/30d0e9ed9212eaa46291bb0045a45840?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=D1XgJPMSE6jzfAm1nSblvO8na089-Q9zQ1MobDV4naZOlgmCtU39pg67phTzrLt6do0w2GbdJUBvPcmV~CBXAlx6DweGoSOf-c1ouL2bBowlBHoBA5-zA8FduzaN0uLA2JzEERC~0EOAXSLIakami5HBttG6i8kjth2WWpQLi2Y6W10Z~ehD9rgV1KYwOJVi774hKGyHf~JVRaGzoc-iTB3cH54rLab9MxoSS4Ey66gsy1FJDUcka4k7Qmu8mwAfsa51W~iaQ3Nf8x67qG7vIjFr35L6Mneap4~yrDWuP5Vtcr71xlgK5S~PRooUY2Vo8JbzZ0cLaQPEFvnMhavQxQ__",
+        "https://s3-alpha-sig.figma.com/img/740c/be92/30d0e9ed9212eaa46291bb0045a45840?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=D1XgJPMSE6jzfAm1nSblvO8na089-Q9zQ1MobDV4naZOlgmCtU39pg67phTzrLt6do0w2GbdJUBvPcmV~CBXAlx6DweGoSOf-c1ouL2bBowlBHoBA5-zA8FduzaN0uLA2JzEERC~0EOAXSLIakami5HBttG6i8kjth2WWpQLi2Y6W10Z~ehD9rgV1KYwOJVi774hKGyHf~JVRaGzoc-iTB3cH54rLab9MxoSS4Ey66gsy1FJDUcka4k7Qmu8mwAfsa51W~iaQ3Nf8x67qG7vIjFr35L6Mneap4~yrDWuP5Vtcr71xlgK5S~PRooUY2Vo8JbzZ0cLaQPEFvnMhavQxQ__"
+      ],
+      "price": "250.000",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Chậu cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "1/2/2024",
+      "state": 343
+    },
+    {
+      "id": "3",
+      "name": "Planta Resowood",
+      "image": "https://s3-alpha-sig.figma.com/img/ff1e/1ba8/1d4b4a5e1f83ad7d7c6a746d9c7677b8?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=p~jLSXQ4lj6pbrxAij5GSB0jP1~3tbdgy1Ht2cLyJ3cbKNBmUDbKYcI5xpKG2q~I6EeZZ3qI4EojTCDzyWYMPuhdrA0NhVpuZjwl6a2xbKNKqOdk4OyblnFzaXZJ28m~sfFOM04smiAlobA-Tx-Oyn~UNMcq52GkK~W0afy1uXYhqGfOkDg~y9im1NmsFAghNR0Zr0iDSK3SfraAg4Ck8YBm~UuaSamqrd2HKofq7Yo6glEUyIvTGar7zdVuo~KMChbBBGkx~4EJ9ZDFIcNGH2WarM~QVZiDS~1CQko46YSZ2GpJqIPsbTxuRFpv4C33cJtwWbLUh5W~ZIS97rRxtg__",
+      "image_slider": [
+        "https://s3-alpha-sig.figma.com/img/ff1e/1ba8/1d4b4a5e1f83ad7d7c6a746d9c7677b8?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=p~jLSXQ4lj6pbrxAij5GSB0jP1~3tbdgy1Ht2cLyJ3cbKNBmUDbKYcI5xpKG2q~I6EeZZ3qI4EojTCDzyWYMPuhdrA0NhVpuZjwl6a2xbKNKqOdk4OyblnFzaXZJ28m~sfFOM04smiAlobA-Tx-Oyn~UNMcq52GkK~W0afy1uXYhqGfOkDg~y9im1NmsFAghNR0Zr0iDSK3SfraAg4Ck8YBm~UuaSamqrd2HKofq7Yo6glEUyIvTGar7zdVuo~KMChbBBGkx~4EJ9ZDFIcNGH2WarM~QVZiDS~1CQko46YSZ2GpJqIPsbTxuRFpv4C33cJtwWbLUh5W~ZIS97rRxtg__",
+        "https://s3-alpha-sig.figma.com/img/ff1e/1ba8/1d4b4a5e1f83ad7d7c6a746d9c7677b8?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=p~jLSXQ4lj6pbrxAij5GSB0jP1~3tbdgy1Ht2cLyJ3cbKNBmUDbKYcI5xpKG2q~I6EeZZ3qI4EojTCDzyWYMPuhdrA0NhVpuZjwl6a2xbKNKqOdk4OyblnFzaXZJ28m~sfFOM04smiAlobA-Tx-Oyn~UNMcq52GkK~W0afy1uXYhqGfOkDg~y9im1NmsFAghNR0Zr0iDSK3SfraAg4Ck8YBm~UuaSamqrd2HKofq7Yo6glEUyIvTGar7zdVuo~KMChbBBGkx~4EJ9ZDFIcNGH2WarM~QVZiDS~1CQko46YSZ2GpJqIPsbTxuRFpv4C33cJtwWbLUh5W~ZIS97rRxtg__",
+        "https://s3-alpha-sig.figma.com/img/ff1e/1ba8/1d4b4a5e1f83ad7d7c6a746d9c7677b8?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=p~jLSXQ4lj6pbrxAij5GSB0jP1~3tbdgy1Ht2cLyJ3cbKNBmUDbKYcI5xpKG2q~I6EeZZ3qI4EojTCDzyWYMPuhdrA0NhVpuZjwl6a2xbKNKqOdk4OyblnFzaXZJ28m~sfFOM04smiAlobA-Tx-Oyn~UNMcq52GkK~W0afy1uXYhqGfOkDg~y9im1NmsFAghNR0Zr0iDSK3SfraAg4Ck8YBm~UuaSamqrd2HKofq7Yo6glEUyIvTGar7zdVuo~KMChbBBGkx~4EJ9ZDFIcNGH2WarM~QVZiDS~1CQko46YSZ2GpJqIPsbTxuRFpv4C33cJtwWbLUh5W~ZIS97rRxtg__"
+      ],
+      "price": "250.000",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Chậu cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "1/2/2024",
+      "state": 343
+    },
+    {
+      "id": "4",
+      "name": "Planta Dove Grey",
+      "image": "https://s3-alpha-sig.figma.com/img/bfe9/b5e0/6bcc9eb160347c1e1dc9c9c768361182?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=STABeCebnXjGn4PHL6Pw6QEXNKXuV7n-LuWE18yT2U99iX1i8ypBdHdJVpg0LIsY7xNAhd869iQP4lKdZN-rUp81BvzPcXoTR-YAyHPhc~PDRvlsymjVr4t4LLMG7UwmDcK~gcA7CfHaJEn0zq2w2iPDwKM90WIADCRz2BsjuFktWQTlVPIqJkkQnYgz1TIU2D8X9anG6dBJMFntu5IMkM1kEHNI93u6D2PQASVV6CU4NUbuPbqXS12IbSJ2FfAu~k-bmR6PnGmFUaxAOSjwvbgYIu801ZJaqqzOT-fdh0gCPGvdhh2w03mMHuXtxWvZ7R5M2ysLqoArhwVEmsaoiw__",
+      "image_slider": [
+        "https://s3-alpha-sig.figma.com/img/bfe9/b5e0/6bcc9eb160347c1e1dc9c9c768361182?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=STABeCebnXjGn4PHL6Pw6QEXNKXuV7n-LuWE18yT2U99iX1i8ypBdHdJVpg0LIsY7xNAhd869iQP4lKdZN-rUp81BvzPcXoTR-YAyHPhc~PDRvlsymjVr4t4LLMG7UwmDcK~gcA7CfHaJEn0zq2w2iPDwKM90WIADCRz2BsjuFktWQTlVPIqJkkQnYgz1TIU2D8X9anG6dBJMFntu5IMkM1kEHNI93u6D2PQASVV6CU4NUbuPbqXS12IbSJ2FfAu~k-bmR6PnGmFUaxAOSjwvbgYIu801ZJaqqzOT-fdh0gCPGvdhh2w03mMHuXtxWvZ7R5M2ysLqoArhwVEmsaoiw__",
+        "https://s3-alpha-sig.figma.com/img/bfe9/b5e0/6bcc9eb160347c1e1dc9c9c768361182?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=STABeCebnXjGn4PHL6Pw6QEXNKXuV7n-LuWE18yT2U99iX1i8ypBdHdJVpg0LIsY7xNAhd869iQP4lKdZN-rUp81BvzPcXoTR-YAyHPhc~PDRvlsymjVr4t4LLMG7UwmDcK~gcA7CfHaJEn0zq2w2iPDwKM90WIADCRz2BsjuFktWQTlVPIqJkkQnYgz1TIU2D8X9anG6dBJMFntu5IMkM1kEHNI93u6D2PQASVV6CU4NUbuPbqXS12IbSJ2FfAu~k-bmR6PnGmFUaxAOSjwvbgYIu801ZJaqqzOT-fdh0gCPGvdhh2w03mMHuXtxWvZ7R5M2ysLqoArhwVEmsaoiw__",
+        "https://s3-alpha-sig.figma.com/img/bfe9/b5e0/6bcc9eb160347c1e1dc9c9c768361182?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=STABeCebnXjGn4PHL6Pw6QEXNKXuV7n-LuWE18yT2U99iX1i8ypBdHdJVpg0LIsY7xNAhd869iQP4lKdZN-rUp81BvzPcXoTR-YAyHPhc~PDRvlsymjVr4t4LLMG7UwmDcK~gcA7CfHaJEn0zq2w2iPDwKM90WIADCRz2BsjuFktWQTlVPIqJkkQnYgz1TIU2D8X9anG6dBJMFntu5IMkM1kEHNI93u6D2PQASVV6CU4NUbuPbqXS12IbSJ2FfAu~k-bmR6PnGmFUaxAOSjwvbgYIu801ZJaqqzOT-fdh0gCPGvdhh2w03mMHuXtxWvZ7R5M2ysLqoArhwVEmsaoiw__"
+      ],
+      "price": "250.000",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Chậu cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "1/2/2024",
+      "state": 343
+    },
+    {
+      "id": "5",
+      "name": "Planta Đen",
+      "image": "https://s3-alpha-sig.figma.com/img/6e83/71fd/b81a241b896b62ccc6fe11d8318bc8ad?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=N4bAlVWD1KkILE~po3DkRaNG2wfJy0Gq1yoTV6drHNaK3qu2folJKjW~~SVtC9llHd0UdQVe~4mA0WbWMlGg-w60kEx7CtfG5R-jbLMZinzfV1EmK9h-fU01A3BT0Livejm163PjBlE2jru9X-KLNMN5VqW5NsZafgCI31oDisKiL7jPC-jfgDrXdb1lth3iSl14Y2mS8~KIE~ZnPo6NSeZ2M4dhwF4uOB0OqO9WNr1Hm3IC-iGaaIh6S68x87Of5rFYrlWcvZc4ePevjw-RlwummVxw44x6TqMIq4cedzAqL3yz9M-YqwUPuVak0e8XDwQmNFL9jrcd0zBjsosGpw__",
+      "image_slider": [
+        "https://s3-alpha-sig.figma.com/img/6e83/71fd/b81a241b896b62ccc6fe11d8318bc8ad?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=N4bAlVWD1KkILE~po3DkRaNG2wfJy0Gq1yoTV6drHNaK3qu2folJKjW~~SVtC9llHd0UdQVe~4mA0WbWMlGg-w60kEx7CtfG5R-jbLMZinzfV1EmK9h-fU01A3BT0Livejm163PjBlE2jru9X-KLNMN5VqW5NsZafgCI31oDisKiL7jPC-jfgDrXdb1lth3iSl14Y2mS8~KIE~ZnPo6NSeZ2M4dhwF4uOB0OqO9WNr1Hm3IC-iGaaIh6S68x87Of5rFYrlWcvZc4ePevjw-RlwummVxw44x6TqMIq4cedzAqL3yz9M-YqwUPuVak0e8XDwQmNFL9jrcd0zBjsosGpw__",
+        "https://s3-alpha-sig.figma.com/img/6e83/71fd/b81a241b896b62ccc6fe11d8318bc8ad?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=N4bAlVWD1KkILE~po3DkRaNG2wfJy0Gq1yoTV6drHNaK3qu2folJKjW~~SVtC9llHd0UdQVe~4mA0WbWMlGg-w60kEx7CtfG5R-jbLMZinzfV1EmK9h-fU01A3BT0Livejm163PjBlE2jru9X-KLNMN5VqW5NsZafgCI31oDisKiL7jPC-jfgDrXdb1lth3iSl14Y2mS8~KIE~ZnPo6NSeZ2M4dhwF4uOB0OqO9WNr1Hm3IC-iGaaIh6S68x87Of5rFYrlWcvZc4ePevjw-RlwummVxw44x6TqMIq4cedzAqL3yz9M-YqwUPuVak0e8XDwQmNFL9jrcd0zBjsosGpw__",
+        "https://s3-alpha-sig.figma.com/img/6e83/71fd/b81a241b896b62ccc6fe11d8318bc8ad?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=N4bAlVWD1KkILE~po3DkRaNG2wfJy0Gq1yoTV6drHNaK3qu2folJKjW~~SVtC9llHd0UdQVe~4mA0WbWMlGg-w60kEx7CtfG5R-jbLMZinzfV1EmK9h-fU01A3BT0Livejm163PjBlE2jru9X-KLNMN5VqW5NsZafgCI31oDisKiL7jPC-jfgDrXdb1lth3iSl14Y2mS8~KIE~ZnPo6NSeZ2M4dhwF4uOB0OqO9WNr1Hm3IC-iGaaIh6S68x87Of5rFYrlWcvZc4ePevjw-RlwummVxw44x6TqMIq4cedzAqL3yz9M-YqwUPuVak0e8XDwQmNFL9jrcd0zBjsosGpw__"
+      ],
+      "price": "250.000",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Chậu cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "1/2/2024",
+      "state": 343
+    },
+    {
+      "id": "6",
+      "name": "Planta Matte Black",
+      "image": "https://s3-alpha-sig.figma.com/img/b0bb/9813/3cc0a0d1060696ed760e4bf2d8b6bd6a?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GFImEdWmi1Oi1EViKIdPvFhZEurkE89LrmaL98qClnPe42QwxhOvnXu0HW-nWQqT3jE9Kex-djM8XwLZfQadxX3On~l7DFesjQMemaRaZuXrXzbozKZInCTsOrXHdSHVP5SZwjf6Mj7ATmJIKk251Eyps6iOTA3~qSTKe4LW21d1wKA2L~32ESms0M1sYuGlCJAMUlxGibK1Fh0qMvg2iVWe5czI22C4duvDh9764KtSeEp1FIEX9ADULnaRN5U2mpHseCHgw4t89-4pUV1wdL5T4Kt~k5EKb7HtYzeoxDiymBNVOzX5UssEU-HYzeMxfBC08oifyegSC-jCYWCS~g__",
+      "image_slider": [
+        "https://s3-alpha-sig.figma.com/img/b0bb/9813/3cc0a0d1060696ed760e4bf2d8b6bd6a?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GFImEdWmi1Oi1EViKIdPvFhZEurkE89LrmaL98qClnPe42QwxhOvnXu0HW-nWQqT3jE9Kex-djM8XwLZfQadxX3On~l7DFesjQMemaRaZuXrXzbozKZInCTsOrXHdSHVP5SZwjf6Mj7ATmJIKk251Eyps6iOTA3~qSTKe4LW21d1wKA2L~32ESms0M1sYuGlCJAMUlxGibK1Fh0qMvg2iVWe5czI22C4duvDh9764KtSeEp1FIEX9ADULnaRN5U2mpHseCHgw4t89-4pUV1wdL5T4Kt~k5EKb7HtYzeoxDiymBNVOzX5UssEU-HYzeMxfBC08oifyegSC-jCYWCS~g__",
+        "https://s3-alpha-sig.figma.com/img/b0bb/9813/3cc0a0d1060696ed760e4bf2d8b6bd6a?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GFImEdWmi1Oi1EViKIdPvFhZEurkE89LrmaL98qClnPe42QwxhOvnXu0HW-nWQqT3jE9Kex-djM8XwLZfQadxX3On~l7DFesjQMemaRaZuXrXzbozKZInCTsOrXHdSHVP5SZwjf6Mj7ATmJIKk251Eyps6iOTA3~qSTKe4LW21d1wKA2L~32ESms0M1sYuGlCJAMUlxGibK1Fh0qMvg2iVWe5czI22C4duvDh9764KtSeEp1FIEX9ADULnaRN5U2mpHseCHgw4t89-4pUV1wdL5T4Kt~k5EKb7HtYzeoxDiymBNVOzX5UssEU-HYzeMxfBC08oifyegSC-jCYWCS~g__",
+        "https://s3-alpha-sig.figma.com/img/b0bb/9813/3cc0a0d1060696ed760e4bf2d8b6bd6a?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GFImEdWmi1Oi1EViKIdPvFhZEurkE89LrmaL98qClnPe42QwxhOvnXu0HW-nWQqT3jE9Kex-djM8XwLZfQadxX3On~l7DFesjQMemaRaZuXrXzbozKZInCTsOrXHdSHVP5SZwjf6Mj7ATmJIKk251Eyps6iOTA3~qSTKe4LW21d1wKA2L~32ESms0M1sYuGlCJAMUlxGibK1Fh0qMvg2iVWe5czI22C4duvDh9764KtSeEp1FIEX9ADULnaRN5U2mpHseCHgw4t89-4pUV1wdL5T4Kt~k5EKb7HtYzeoxDiymBNVOzX5UssEU-HYzeMxfBC08oifyegSC-jCYWCS~g__"
+      ],
+      "price": "250.000",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Chậu cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "1/2/2024",
+      "state": 343
+    }
+  ],
+  "accessory": [
+    {
+      "id": "1",
+      "name": "Bình tưới Siera nhỏ",
+      "image": "https://s3-alpha-sig.figma.com/img/508d/4a73/1e689a274cf0d0cacd0620a56d43fb5e?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kRX1u3BQJos-kRLw-T1ng4yDUEYTbYA6wdNo27tLgsryfc2vZNbYxZIyNF~kqVVZwZ2nlddCRDL8znhAwC9H4xka7b-RHlp5anv0qF6Avp17o4vJ5DkFMe7tbkIYDk0zsZPmJtSfBW~LWb627YQNmoPVQGlYh2RKfng9dt-8jdmH9mKA5Uze5nzJVik3MygbHc2BGD50RxTlVy9ove0puKWhiCKaCuhB6XITXpZShrBhVCxPzn~jUr~pPJQ-8qAUdeFzaHFydChzPtdphjLlEQdDDaqYm-7MgbdXVICG4sSEAFMmE-1WgD~Ik455qFimDSELRtEpjAV-IfKwjxPPAg__",
+      "image_slider": [
+        "https://s3-alpha-sig.figma.com/img/508d/4a73/1e689a274cf0d0cacd0620a56d43fb5e?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kRX1u3BQJos-kRLw-T1ng4yDUEYTbYA6wdNo27tLgsryfc2vZNbYxZIyNF~kqVVZwZ2nlddCRDL8znhAwC9H4xka7b-RHlp5anv0qF6Avp17o4vJ5DkFMe7tbkIYDk0zsZPmJtSfBW~LWb627YQNmoPVQGlYh2RKfng9dt-8jdmH9mKA5Uze5nzJVik3MygbHc2BGD50RxTlVy9ove0puKWhiCKaCuhB6XITXpZShrBhVCxPzn~jUr~pPJQ-8qAUdeFzaHFydChzPtdphjLlEQdDDaqYm-7MgbdXVICG4sSEAFMmE-1WgD~Ik455qFimDSELRtEpjAV-IfKwjxPPAg__",
+        "https://s3-alpha-sig.figma.com/img/508d/4a73/1e689a274cf0d0cacd0620a56d43fb5e?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kRX1u3BQJos-kRLw-T1ng4yDUEYTbYA6wdNo27tLgsryfc2vZNbYxZIyNF~kqVVZwZ2nlddCRDL8znhAwC9H4xka7b-RHlp5anv0qF6Avp17o4vJ5DkFMe7tbkIYDk0zsZPmJtSfBW~LWb627YQNmoPVQGlYh2RKfng9dt-8jdmH9mKA5Uze5nzJVik3MygbHc2BGD50RxTlVy9ove0puKWhiCKaCuhB6XITXpZShrBhVCxPzn~jUr~pPJQ-8qAUdeFzaHFydChzPtdphjLlEQdDDaqYm-7MgbdXVICG4sSEAFMmE-1WgD~Ik455qFimDSELRtEpjAV-IfKwjxPPAg__",
+        "https://s3-alpha-sig.figma.com/img/508d/4a73/1e689a274cf0d0cacd0620a56d43fb5e?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kRX1u3BQJos-kRLw-T1ng4yDUEYTbYA6wdNo27tLgsryfc2vZNbYxZIyNF~kqVVZwZ2nlddCRDL8znhAwC9H4xka7b-RHlp5anv0qF6Avp17o4vJ5DkFMe7tbkIYDk0zsZPmJtSfBW~LWb627YQNmoPVQGlYh2RKfng9dt-8jdmH9mKA5Uze5nzJVik3MygbHc2BGD50RxTlVy9ove0puKWhiCKaCuhB6XITXpZShrBhVCxPzn~jUr~pPJQ-8qAUdeFzaHFydChzPtdphjLlEQdDDaqYm-7MgbdXVICG4sSEAFMmE-1WgD~Ik455qFimDSELRtEpjAV-IfKwjxPPAg__"
+      ],
+      "price": "250.000",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Phụ kiện",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": true,
+      "isHot": true,
+      "created_at": "1/2/2024",
+      "state": 343
+    },
+    {
+      "id": "2",
+      "name": "Bình tưới Siera lớn",
+      "image": "https://s3-alpha-sig.figma.com/img/244d/2a88/8d0fa464548c60d4d95c834f719df626?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DY0K5DiDFKMmrGd0N2KjdvVh9a-m~qokcTDgNVgZizAwKC6dJr2Kd6I7R53rJ~DMuWKktM6cUbEu4aROj0Qg6yOMJNbPMqPYixrNH~54tYuL27l1JBuB7dQBpdez8a6F7koC2XxSYyTneriv52L3KGSzkk2w6p9aEwC3CbnAcQW2u0f11usZS7dZvWl7c4NDqSwnmaWpql0NV65bRD-ywGM1jDsiE9aCgZ4o6nm1zpmoeVLzPdlVAFo2r29-a8aWq8jzI4gmUjr2cP72xg7dAIhsUodj8BvgdHw6p2HO5OKvAu~sxGHcBCpBgg-wNR9tWahRyvEezN1SO83cHNTFTg__",
+      "image_slider": [
+        "https://s3-alpha-sig.figma.com/img/244d/2a88/8d0fa464548c60d4d95c834f719df626?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DY0K5DiDFKMmrGd0N2KjdvVh9a-m~qokcTDgNVgZizAwKC6dJr2Kd6I7R53rJ~DMuWKktM6cUbEu4aROj0Qg6yOMJNbPMqPYixrNH~54tYuL27l1JBuB7dQBpdez8a6F7koC2XxSYyTneriv52L3KGSzkk2w6p9aEwC3CbnAcQW2u0f11usZS7dZvWl7c4NDqSwnmaWpql0NV65bRD-ywGM1jDsiE9aCgZ4o6nm1zpmoeVLzPdlVAFo2r29-a8aWq8jzI4gmUjr2cP72xg7dAIhsUodj8BvgdHw6p2HO5OKvAu~sxGHcBCpBgg-wNR9tWahRyvEezN1SO83cHNTFTg__",
+        "https://s3-alpha-sig.figma.com/img/244d/2a88/8d0fa464548c60d4d95c834f719df626?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DY0K5DiDFKMmrGd0N2KjdvVh9a-m~qokcTDgNVgZizAwKC6dJr2Kd6I7R53rJ~DMuWKktM6cUbEu4aROj0Qg6yOMJNbPMqPYixrNH~54tYuL27l1JBuB7dQBpdez8a6F7koC2XxSYyTneriv52L3KGSzkk2w6p9aEwC3CbnAcQW2u0f11usZS7dZvWl7c4NDqSwnmaWpql0NV65bRD-ywGM1jDsiE9aCgZ4o6nm1zpmoeVLzPdlVAFo2r29-a8aWq8jzI4gmUjr2cP72xg7dAIhsUodj8BvgdHw6p2HO5OKvAu~sxGHcBCpBgg-wNR9tWahRyvEezN1SO83cHNTFTg__",
+        "https://s3-alpha-sig.figma.com/img/244d/2a88/8d0fa464548c60d4d95c834f719df626?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DY0K5DiDFKMmrGd0N2KjdvVh9a-m~qokcTDgNVgZizAwKC6dJr2Kd6I7R53rJ~DMuWKktM6cUbEu4aROj0Qg6yOMJNbPMqPYixrNH~54tYuL27l1JBuB7dQBpdez8a6F7koC2XxSYyTneriv52L3KGSzkk2w6p9aEwC3CbnAcQW2u0f11usZS7dZvWl7c4NDqSwnmaWpql0NV65bRD-ywGM1jDsiE9aCgZ4o6nm1zpmoeVLzPdlVAFo2r29-a8aWq8jzI4gmUjr2cP72xg7dAIhsUodj8BvgdHw6p2HO5OKvAu~sxGHcBCpBgg-wNR9tWahRyvEezN1SO83cHNTFTg__"
+      ],
+      "price": "250.000",
+      "size": "Lớn",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Phụ kiện",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "1/2/2024",
+      "state": 343
+    },
+    {
+      "id": "3",
+      "name": "Bình tưới CB2 SAIC",
+      "image": "https://s3-alpha-sig.figma.com/img/01aa/10b6/c9486cd92eb39c4bbe01298e1654452f?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iUutYeZCoThNOv-8CzQUYIxjXzsBtiGkHiawjvKcaRncaP0hWXZR5ERtrkaw1lhj4qU9OAhHKn3f~YucEX-F9YFEXhBZmos1W4lJsKCrolBpXxMN8umQFt~tJv~c8NCURzkhRuZENSH8LefRuxc-VRS-zKVcO4azVsrlIZfczkU-08qHxQ-uJP6~cmOZC85TQnJwtMG9hJgUm-pPZvtyGoU3cK8mmYrIcnnOjfqjVpz9EHBU20H-jZTjOf1NKKCIcKF-sgWrt0H0y1NLI1AvuoZJ9cSvOym8YU4i2vEV9IUt34jp8UfUS4R2vQLnoRZtcAOTvj7kQp98Qk0eKkWG3Q__",
+      "image_slider": [
+        "https://s3-alpha-sig.figma.com/img/01aa/10b6/c9486cd92eb39c4bbe01298e1654452f?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iUutYeZCoThNOv-8CzQUYIxjXzsBtiGkHiawjvKcaRncaP0hWXZR5ERtrkaw1lhj4qU9OAhHKn3f~YucEX-F9YFEXhBZmos1W4lJsKCrolBpXxMN8umQFt~tJv~c8NCURzkhRuZENSH8LefRuxc-VRS-zKVcO4azVsrlIZfczkU-08qHxQ-uJP6~cmOZC85TQnJwtMG9hJgUm-pPZvtyGoU3cK8mmYrIcnnOjfqjVpz9EHBU20H-jZTjOf1NKKCIcKF-sgWrt0H0y1NLI1AvuoZJ9cSvOym8YU4i2vEV9IUt34jp8UfUS4R2vQLnoRZtcAOTvj7kQp98Qk0eKkWG3Q__",
+        "https://s3-alpha-sig.figma.com/img/01aa/10b6/c9486cd92eb39c4bbe01298e1654452f?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iUutYeZCoThNOv-8CzQUYIxjXzsBtiGkHiawjvKcaRncaP0hWXZR5ERtrkaw1lhj4qU9OAhHKn3f~YucEX-F9YFEXhBZmos1W4lJsKCrolBpXxMN8umQFt~tJv~c8NCURzkhRuZENSH8LefRuxc-VRS-zKVcO4azVsrlIZfczkU-08qHxQ-uJP6~cmOZC85TQnJwtMG9hJgUm-pPZvtyGoU3cK8mmYrIcnnOjfqjVpz9EHBU20H-jZTjOf1NKKCIcKF-sgWrt0H0y1NLI1AvuoZJ9cSvOym8YU4i2vEV9IUt34jp8UfUS4R2vQLnoRZtcAOTvj7kQp98Qk0eKkWG3Q__",
+        "https://s3-alpha-sig.figma.com/img/01aa/10b6/c9486cd92eb39c4bbe01298e1654452f?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iUutYeZCoThNOv-8CzQUYIxjXzsBtiGkHiawjvKcaRncaP0hWXZR5ERtrkaw1lhj4qU9OAhHKn3f~YucEX-F9YFEXhBZmos1W4lJsKCrolBpXxMN8umQFt~tJv~c8NCURzkhRuZENSH8LefRuxc-VRS-zKVcO4azVsrlIZfczkU-08qHxQ-uJP6~cmOZC85TQnJwtMG9hJgUm-pPZvtyGoU3cK8mmYrIcnnOjfqjVpz9EHBU20H-jZTjOf1NKKCIcKF-sgWrt0H0y1NLI1AvuoZJ9cSvOym8YU4i2vEV9IUt34jp8UfUS4R2vQLnoRZtcAOTvj7kQp98Qk0eKkWG3Q__"
+      ],
+      "price": "250.000",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Phụ kiện",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "1/2/2024",
+      "state": 343
+    },
+    {
+      "id": "4",
+      "name": "Bình xịt Xiaoda",
+      "image": "https://s3-alpha-sig.figma.com/img/8b3b/8e59/98995d529e75c643d53868f424fa78e3?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gKB0ZBTFaYYs1vZHKwpTwVluDYoMJRZ-yECGoi0gRAi4PZy-0ahx4GRJMCddNohDnYN-EBYsoSk2qztpYpP3bskokSSwOpcXn5yGyQc7bROzl8ZUjCFB85~stLv72WEx5~gRWcyJdIoZ-DWiwj-Yi63uYgagvBaePaLb9XRlKiibu8JoQYQoMUu0MriT1xfc4FUhSSs1UE0Cbfii7OkbfSH4reJe7chn1ukCkMDAsOSfvSRQ2--k4Q9tISXugidV9AoibN6jONB6bReufyaZO6utFeRBUCvKiSs~YxTkqZ85QfzT-Sz9DP3t-QZ73F2u6OyUZuJ6uxpyNefFz9-oJg__",
+      "image_slider": [
+        "https://s3-alpha-sig.figma.com/img/8b3b/8e59/98995d529e75c643d53868f424fa78e3?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gKB0ZBTFaYYs1vZHKwpTwVluDYoMJRZ-yECGoi0gRAi4PZy-0ahx4GRJMCddNohDnYN-EBYsoSk2qztpYpP3bskokSSwOpcXn5yGyQc7bROzl8ZUjCFB85~stLv72WEx5~gRWcyJdIoZ-DWiwj-Yi63uYgagvBaePaLb9XRlKiibu8JoQYQoMUu0MriT1xfc4FUhSSs1UE0Cbfii7OkbfSH4reJe7chn1ukCkMDAsOSfvSRQ2--k4Q9tISXugidV9AoibN6jONB6bReufyaZO6utFeRBUCvKiSs~YxTkqZ85QfzT-Sz9DP3t-QZ73F2u6OyUZuJ6uxpyNefFz9-oJg__",
+        "https://s3-alpha-sig.figma.com/img/8b3b/8e59/98995d529e75c643d53868f424fa78e3?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gKB0ZBTFaYYs1vZHKwpTwVluDYoMJRZ-yECGoi0gRAi4PZy-0ahx4GRJMCddNohDnYN-EBYsoSk2qztpYpP3bskokSSwOpcXn5yGyQc7bROzl8ZUjCFB85~stLv72WEx5~gRWcyJdIoZ-DWiwj-Yi63uYgagvBaePaLb9XRlKiibu8JoQYQoMUu0MriT1xfc4FUhSSs1UE0Cbfii7OkbfSH4reJe7chn1ukCkMDAsOSfvSRQ2--k4Q9tISXugidV9AoibN6jONB6bReufyaZO6utFeRBUCvKiSs~YxTkqZ85QfzT-Sz9DP3t-QZ73F2u6OyUZuJ6uxpyNefFz9-oJg__",
+        "https://s3-alpha-sig.figma.com/img/8b3b/8e59/98995d529e75c643d53868f424fa78e3?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gKB0ZBTFaYYs1vZHKwpTwVluDYoMJRZ-yECGoi0gRAi4PZy-0ahx4GRJMCddNohDnYN-EBYsoSk2qztpYpP3bskokSSwOpcXn5yGyQc7bROzl8ZUjCFB85~stLv72WEx5~gRWcyJdIoZ-DWiwj-Yi63uYgagvBaePaLb9XRlKiibu8JoQYQoMUu0MriT1xfc4FUhSSs1UE0Cbfii7OkbfSH4reJe7chn1ukCkMDAsOSfvSRQ2--k4Q9tISXugidV9AoibN6jONB6bReufyaZO6utFeRBUCvKiSs~YxTkqZ85QfzT-Sz9DP3t-QZ73F2u6OyUZuJ6uxpyNefFz9-oJg__"
+      ],
+      "price": "250.000",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Phụ kiện",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "1/2/2024",
+      "state": 343
+    },
+    {
+      "id": "5",
+      "name": "Bộ quốc xẻng Mini",
+      "image": "https://s3-alpha-sig.figma.com/img/4f14/d646/b1d93b03d1f0d764d4dbd36776ce167e?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CNOG2qG1XGwT9uM-3pzG7CHNOT5idywCRq4PIHxndgMbOiikHMfrfflq3CcBPM2WyPcz0FL0zqfCI910HUCyI3oacwQTx~ic3Aps~I1f0W2GJJt85cObZu10obooztKSULwXxSkMWswnJnaOofis-7DT4kmECFaVhmtApmaX~oANPoi4B57p6iyhb~RLICh~zHDaFQk-H~EQa-nd9WRmb7MbW061TwgeJqXUIR9c64BgZmsZtRrUERWmyKaocos8x-cfOfRS1Xbxn7UkHpapUmhw-8nOgoqpPBlN5B1h0jYo8HEe0suOAksPJTKrEkxvNWshCti6woVJTIIrErljyA__",
+      "image_slider": [
+        "https://s3-alpha-sig.figma.com/img/4f14/d646/b1d93b03d1f0d764d4dbd36776ce167e?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CNOG2qG1XGwT9uM-3pzG7CHNOT5idywCRq4PIHxndgMbOiikHMfrfflq3CcBPM2WyPcz0FL0zqfCI910HUCyI3oacwQTx~ic3Aps~I1f0W2GJJt85cObZu10obooztKSULwXxSkMWswnJnaOofis-7DT4kmECFaVhmtApmaX~oANPoi4B57p6iyhb~RLICh~zHDaFQk-H~EQa-nd9WRmb7MbW061TwgeJqXUIR9c64BgZmsZtRrUERWmyKaocos8x-cfOfRS1Xbxn7UkHpapUmhw-8nOgoqpPBlN5B1h0jYo8HEe0suOAksPJTKrEkxvNWshCti6woVJTIIrErljyA__",
+        "https://s3-alpha-sig.figma.com/img/4f14/d646/b1d93b03d1f0d764d4dbd36776ce167e?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CNOG2qG1XGwT9uM-3pzG7CHNOT5idywCRq4PIHxndgMbOiikHMfrfflq3CcBPM2WyPcz0FL0zqfCI910HUCyI3oacwQTx~ic3Aps~I1f0W2GJJt85cObZu10obooztKSULwXxSkMWswnJnaOofis-7DT4kmECFaVhmtApmaX~oANPoi4B57p6iyhb~RLICh~zHDaFQk-H~EQa-nd9WRmb7MbW061TwgeJqXUIR9c64BgZmsZtRrUERWmyKaocos8x-cfOfRS1Xbxn7UkHpapUmhw-8nOgoqpPBlN5B1h0jYo8HEe0suOAksPJTKrEkxvNWshCti6woVJTIIrErljyA__",
+        "https://s3-alpha-sig.figma.com/img/4f14/d646/b1d93b03d1f0d764d4dbd36776ce167e?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CNOG2qG1XGwT9uM-3pzG7CHNOT5idywCRq4PIHxndgMbOiikHMfrfflq3CcBPM2WyPcz0FL0zqfCI910HUCyI3oacwQTx~ic3Aps~I1f0W2GJJt85cObZu10obooztKSULwXxSkMWswnJnaOofis-7DT4kmECFaVhmtApmaX~oANPoi4B57p6iyhb~RLICh~zHDaFQk-H~EQa-nd9WRmb7MbW061TwgeJqXUIR9c64BgZmsZtRrUERWmyKaocos8x-cfOfRS1Xbxn7UkHpapUmhw-8nOgoqpPBlN5B1h0jYo8HEe0suOAksPJTKrEkxvNWshCti6woVJTIIrErljyA__"
+      ],
+      "price": "250.000",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Phụ kiện",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "1/2/2024",
+      "state": 343
+    },
+    {
+      "id": "6",
+      "name": "Giá đỡ Finn Terrazzo",
+      "image": "https://s3-alpha-sig.figma.com/img/ed35/2885/b62e1c2395ebc40524ae673f02e8972b?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bfMuPPfaPXboi9~U3Q2xX2RUJ2pOkQZQLGaxsqqNmUJkN1NxA~map7i6AisCw2qJR~bSGFCZJp7262RdHwdPvsab22TZlflX3Xxgmsq~~tuv59UFHtnjw8OSThZYlAdp7VigWGRgPUcjzmcktMghRxPLinahwp7OR7nA3pgAenlA71HcqnMehjAONrcXAzprPoruzmgYj~6vgtSpWR8E7DlF~2RDpquY3QHBGMwFsJnvp7txEtpThFeRMuFFvRdrqWEpP5fvJNutLmRnExFE2kPTndZrrfqalb7p0AqCVlm4uo6Vib0wCATxDNeZ4thxGBKOPvqDEBIB45Yr7gEvMA__",
+      "image_slider": [
+        "https://s3-alpha-sig.figma.com/img/ed35/2885/b62e1c2395ebc40524ae673f02e8972b?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bfMuPPfaPXboi9~U3Q2xX2RUJ2pOkQZQLGaxsqqNmUJkN1NxA~map7i6AisCw2qJR~bSGFCZJp7262RdHwdPvsab22TZlflX3Xxgmsq~~tuv59UFHtnjw8OSThZYlAdp7VigWGRgPUcjzmcktMghRxPLinahwp7OR7nA3pgAenlA71HcqnMehjAONrcXAzprPoruzmgYj~6vgtSpWR8E7DlF~2RDpquY3QHBGMwFsJnvp7txEtpThFeRMuFFvRdrqWEpP5fvJNutLmRnExFE2kPTndZrrfqalb7p0AqCVlm4uo6Vib0wCATxDNeZ4thxGBKOPvqDEBIB45Yr7gEvMA__",
+        "https://s3-alpha-sig.figma.com/img/ed35/2885/b62e1c2395ebc40524ae673f02e8972b?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bfMuPPfaPXboi9~U3Q2xX2RUJ2pOkQZQLGaxsqqNmUJkN1NxA~map7i6AisCw2qJR~bSGFCZJp7262RdHwdPvsab22TZlflX3Xxgmsq~~tuv59UFHtnjw8OSThZYlAdp7VigWGRgPUcjzmcktMghRxPLinahwp7OR7nA3pgAenlA71HcqnMehjAONrcXAzprPoruzmgYj~6vgtSpWR8E7DlF~2RDpquY3QHBGMwFsJnvp7txEtpThFeRMuFFvRdrqWEpP5fvJNutLmRnExFE2kPTndZrrfqalb7p0AqCVlm4uo6Vib0wCATxDNeZ4thxGBKOPvqDEBIB45Yr7gEvMA__",
+        "https://s3-alpha-sig.figma.com/img/ed35/2885/b62e1c2395ebc40524ae673f02e8972b?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bfMuPPfaPXboi9~U3Q2xX2RUJ2pOkQZQLGaxsqqNmUJkN1NxA~map7i6AisCw2qJR~bSGFCZJp7262RdHwdPvsab22TZlflX3Xxgmsq~~tuv59UFHtnjw8OSThZYlAdp7VigWGRgPUcjzmcktMghRxPLinahwp7OR7nA3pgAenlA71HcqnMehjAONrcXAzprPoruzmgYj~6vgtSpWR8E7DlF~2RDpquY3QHBGMwFsJnvp7txEtpThFeRMuFFvRdrqWEpP5fvJNutLmRnExFE2kPTndZrrfqalb7p0AqCVlm4uo6Vib0wCATxDNeZ4thxGBKOPvqDEBIB45Yr7gEvMA__"
+      ],
+      "price": "250.000",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Phụ kiện",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "1/2/2024",
+      "state": 343
+    }
+  ],
+  "Favorites": [
+    {
+      "id": "5",
+      "name": "Bộ quốc xẻng Mini",
+      "image": "https://s3-alpha-sig.figma.com/img/4f14/d646/b1d93b03d1f0d764d4dbd36776ce167e?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CNOG2qG1XGwT9uM-3pzG7CHNOT5idywCRq4PIHxndgMbOiikHMfrfflq3CcBPM2WyPcz0FL0zqfCI910HUCyI3oacwQTx~ic3Aps~I1f0W2GJJt85cObZu10obooztKSULwXxSkMWswnJnaOofis-7DT4kmECFaVhmtApmaX~oANPoi4B57p6iyhb~RLICh~zHDaFQk-H~EQa-nd9WRmb7MbW061TwgeJqXUIR9c64BgZmsZtRrUERWmyKaocos8x-cfOfRS1Xbxn7UkHpapUmhw-8nOgoqpPBlN5B1h0jYo8HEe0suOAksPJTKrEkxvNWshCti6woVJTIIrErljyA__",
+      "image_slider": [
+        "https://s3-alpha-sig.figma.com/img/4f14/d646/b1d93b03d1f0d764d4dbd36776ce167e?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CNOG2qG1XGwT9uM-3pzG7CHNOT5idywCRq4PIHxndgMbOiikHMfrfflq3CcBPM2WyPcz0FL0zqfCI910HUCyI3oacwQTx~ic3Aps~I1f0W2GJJt85cObZu10obooztKSULwXxSkMWswnJnaOofis-7DT4kmECFaVhmtApmaX~oANPoi4B57p6iyhb~RLICh~zHDaFQk-H~EQa-nd9WRmb7MbW061TwgeJqXUIR9c64BgZmsZtRrUERWmyKaocos8x-cfOfRS1Xbxn7UkHpapUmhw-8nOgoqpPBlN5B1h0jYo8HEe0suOAksPJTKrEkxvNWshCti6woVJTIIrErljyA__",
+        "https://s3-alpha-sig.figma.com/img/4f14/d646/b1d93b03d1f0d764d4dbd36776ce167e?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CNOG2qG1XGwT9uM-3pzG7CHNOT5idywCRq4PIHxndgMbOiikHMfrfflq3CcBPM2WyPcz0FL0zqfCI910HUCyI3oacwQTx~ic3Aps~I1f0W2GJJt85cObZu10obooztKSULwXxSkMWswnJnaOofis-7DT4kmECFaVhmtApmaX~oANPoi4B57p6iyhb~RLICh~zHDaFQk-H~EQa-nd9WRmb7MbW061TwgeJqXUIR9c64BgZmsZtRrUERWmyKaocos8x-cfOfRS1Xbxn7UkHpapUmhw-8nOgoqpPBlN5B1h0jYo8HEe0suOAksPJTKrEkxvNWshCti6woVJTIIrErljyA__",
+        "https://s3-alpha-sig.figma.com/img/4f14/d646/b1d93b03d1f0d764d4dbd36776ce167e?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CNOG2qG1XGwT9uM-3pzG7CHNOT5idywCRq4PIHxndgMbOiikHMfrfflq3CcBPM2WyPcz0FL0zqfCI910HUCyI3oacwQTx~ic3Aps~I1f0W2GJJt85cObZu10obooztKSULwXxSkMWswnJnaOofis-7DT4kmECFaVhmtApmaX~oANPoi4B57p6iyhb~RLICh~zHDaFQk-H~EQa-nd9WRmb7MbW061TwgeJqXUIR9c64BgZmsZtRrUERWmyKaocos8x-cfOfRS1Xbxn7UkHpapUmhw-8nOgoqpPBlN5B1h0jYo8HEe0suOAksPJTKrEkxvNWshCti6woVJTIIrErljyA__"
+      ],
+      "price": "250.000",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Phụ kiện",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": false,
+      "isHot": false,
+      "created_at": "1/2/2024",
+      "state": 343
+    },
+    {
+      "id": "1",
+      "name": "Spider Plant",
+      "image": "https://png.pngtree.com/png-clipart/20240701/original/pngtree-spider-plant-chlorophytum-comosum-in-white-pot-on-transparent-background-png-image_15458900.png",
+      "image_slider": [
+        "https://png.pngtree.com/png-clipart/20240701/original/pngtree-spider-plant-chlorophytum-comosum-in-white-pot-on-transparent-background-png-image_15458900.png",
+        "https://png.pngtree.com/png-vector/20240721/ourmid/pngtree-spider-plant-chlorophytum-comosum-png-image_13182660.png",
+        "https://png.pngtree.com/png-clipart/20240701/original/pngtree-spider-plant-chlorophytum-comosum-in-white-pot-on-transparent-background-png-image_15458900.png"
+      ],
+      "price": "250.000",
+      "features": "Ưa bóng",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": true,
+      "isHot": true,
+      "created_at": "22/11/2024",
+      "state": 123
+    },
+    {
+      "id": "1",
+      "name": "Spider Plant",
+      "image": "https://png.pngtree.com/png-clipart/20240701/original/pngtree-spider-plant-chlorophytum-comosum-in-white-pot-on-transparent-background-png-image_15458900.png",
+      "image_slider": [
+        "https://png.pngtree.com/png-clipart/20240701/original/pngtree-spider-plant-chlorophytum-comosum-in-white-pot-on-transparent-background-png-image_15458900.png",
+        "https://png.pngtree.com/png-vector/20240721/ourmid/pngtree-spider-plant-chlorophytum-comosum-png-image_13182660.png",
+        "https://png.pngtree.com/png-clipart/20240701/original/pngtree-spider-plant-chlorophytum-comosum-in-white-pot-on-transparent-background-png-image_15458900.png"
+      ],
+      "price": "250.000",
+      "features": "Ưa bóng",
+      "size": "Nhỏ",
+      "origin": "Châu Phi",
+      "quantity": 201,
+      "type": "Cây trồng",
+      "description": "Spider Plant mang một vẻ đẹp ngọt ngào, đằm thắm nhưng không kếm phần rực rỡ mà không phải loài hoa nào cũng có.",
+      "isNew": true,
+      "isHot": true,
+      "created_at": "22/11/2024",
+      "state": 123
+    }
+  ],
+  "Comments": [
+    {
+      "id": "8f22",
+      "user_id": "a51c",
+      "user_name": "\"kien\"",
+      "avatar": "https://cdn-icons-png.flaticon.com/128/666/666201.png",
+      "product_id": "3",
+      "comment_text": "cd",
+      "create_at": "4/12/2024",
+      "update_at": null
+    },
+    {
+      "id": "0926",
+      "user_id": "54e9",
+      "user_name": "\"ab\"",
+      "avatar": "https://cdn-icons-png.flaticon.com/128/666/666201.png",
+      "product_id": "1",
+      "comment_text": "abcg",
+      "create_at": "4/12/2024",
+      "update_at": null
+    }
+  ],
+  "Users": [
+    {
+      "id": "e719",
+      "avatar": "https://www.shutterstock.com/image-vector/high-quality-emoticon-on-yellow-260nw-1746157463.jpg",
+      "name": "e",
+      "email": "e@gmail.com",
+      "phone": "0546584877",
+      "password": "1234567",
+      "status": false
+    },
+    {
+      "id": "2f0b",
+      "avatar": "https://www.shutterstock.com/image-vector/high-quality-emoticon-on-yellow-260nw-1746157463.jpg",
+      "name": "b",
+      "email": "b@gmail.com",
+      "phone": "0527578587",
+      "password": "123456",
+      "status": false
+    },
+    {
+      "id": "a51c",
+      "avatar": "https://cdn-icons-png.flaticon.com/128/7710/7710521.png",
+      "name": "kien",
+      "email": "kiendt@gmail.com",
+      "phone": "0346752715",
+      "password": "123456",
+      "status": false
+    },
+    {
+      "id": "9009",
+      "avatar": "https://cdn-icons-png.flaticon.com/128/7710/7710521.png",
+      "name": "anh",
+      "email": "anh@gmail.com",
+      "phone": "06546546584",
+      "password": "123456",
+      "status": false
+    },
+    {
+      "id": "54e9",
+      "avatar": "https://cdn-icons-png.flaticon.com/128/7710/7710521.png",
+      "name": "ab",
+      "email": "ab@gmail.com",
+      "phone": "0348721454",
+      "password": "1234567",
+      "status": false
+    }
+  ]
+}
