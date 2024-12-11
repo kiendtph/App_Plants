@@ -5,9 +5,12 @@
  * @format
  */
 
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
 import React from 'react';
-import type {PropsWithChildren} from 'react';
+import type { PropsWithChildren } from 'react';
 import {
+  Image,
   SafeAreaView,
   ScrollView,
   StatusBar,
@@ -16,84 +19,145 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
+import WelcomeScreen from './screens/WelcomeScreen';
+import LoginScreen from './screens/LoginScreen';
+import RegisterScreen from './screens/RegisterScreen';
+import HomeScreen from './screens/HomeScreen';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import SearchScreen from './screens/SearchScreen';
+import NotificationScreen from './screens/NotificationScreen';
+import ProfileScreen from './screens/ProfileScreen';
+import DetailProductScreen from './screens/DetailProductScreen';
+import Setting from './screens/Setting';
+import SeeMoreTrees from './screens/SeeMoreTrees';
+import SeeMoreAccessory from './screens/SeeMoreAccessory';
+import Contact from './screens/Contact';
+import { Provider } from 'react-redux';
+import store from './src/redux/store';
+import SeeMorePlant_pots from './screens/SeeMorePlant_pots';
+import ProductCatalog from './ProductCatalog';
+import shade_loving from './screens/shadeloving';
+import light_loving from './screens/lightloving';
+import NewPlants from './screens/NewPlants';
+import ToptabPr from './screens/ToptabPr';
+import shadeLoving from './screens/shadeloving';
+import lightLoving from './screens/lightloving';
+import ProductFavorites from './screens/ProductFavorites';
+import { ThemeProvider, useTheme } from './component/Theme';
 
-import {
-  Colors,
-  DebugInstructions,
-  Header,
-  LearnMoreLinks,
-  ReloadInstructions,
-} from 'react-native/Libraries/NewAppScreen';
 
-type SectionProps = PropsWithChildren<{
-  title: string;
-}>;
-
-function Section({children, title}: SectionProps): React.JSX.Element {
-  const isDarkMode = useColorScheme() === 'dark';
-  return (
-    <View style={styles.sectionContainer}>
-      <Text
-        style={[
-          styles.sectionTitle,
-          {
-            color: isDarkMode ? Colors.white : Colors.black,
-          },
-        ]}>
-        {title}
-      </Text>
-      <Text
-        style={[
-          styles.sectionDescription,
-          {
-            color: isDarkMode ? Colors.light : Colors.dark,
-          },
-        ]}>
-        {children}
-      </Text>
-    </View>
-  );
-}
+const Stack = createStackNavigator();
+const Tab = createBottomTabNavigator();
 
 function App(): React.JSX.Element {
-  const isDarkMode = useColorScheme() === 'dark';
-
-  const backgroundStyle = {
-    backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
-  };
 
   return (
-    <SafeAreaView style={backgroundStyle}>
-      <StatusBar
-        barStyle={isDarkMode ? 'light-content' : 'dark-content'}
-        backgroundColor={backgroundStyle.backgroundColor}
-      />
-      <ScrollView
-        contentInsetAdjustmentBehavior="automatic"
-        style={backgroundStyle}>
-        <Header />
-        <View
-          style={{
-            backgroundColor: isDarkMode ? Colors.black : Colors.white,
-          }}>
-          <Section title="Step One">
-            Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-            screen and then come back to see your edits.
-          </Section>
-          <Section title="See Your Changes">
-            <ReloadInstructions />
-          </Section>
-          <Section title="Debug">
-            <DebugInstructions />
-          </Section>
-          <Section title="Learn More">
-            Read the docs to discover what to do next:
-          </Section>
-          <LearnMoreLinks />
-        </View>
-      </ScrollView>
-    </SafeAreaView>
+    <Provider store={store}>
+      <ThemeProvider>
+        <NavigationContainer>
+          <Stack.Navigator screenOptions={{ headerShown: false}}>
+            <Stack.Screen name='WelcomeScreen' component={WelcomeScreen} />
+            <Stack.Screen name='LoginScreen' component={LoginScreen} />
+            <Stack.Screen name='RegisterScreen' component={RegisterScreen} />
+            <Stack.Screen name='HomeScreen' component={TabNavigator} />
+            <Stack.Screen name='SearchScreen' component={SearchScreen} />
+            <Stack.Screen name='NofificationScreen' component={NotificationScreen} />
+            <Stack.Screen name='ProfileScreen' component={ProfileScreen} />
+            <Stack.Screen name='DetailProductScreen' component={DetailProductScreen} />
+            <Stack.Screen name='Setting' component={Setting} />
+            <Stack.Screen name='ProductCatalog' component={ProductCatalog} />
+            <Stack.Screen name='SeeMoreAccessory' component={SeeMoreAccessory} />
+            <Stack.Screen name='Contact' component={Contact} />
+            <Stack.Screen name='NewPlants' component={NewPlants} />
+            <Stack.Screen name='SeeMorePlant_pots' component={SeeMorePlant_pots} />
+            <Stack.Screen name='ToptabPr' component={ToptabPr} />
+            <Stack.Screen name='ProductFavorites' component={ProductFavorites} />
+          </Stack.Navigator>
+        </NavigationContainer>
+      </ThemeProvider>
+    </Provider>
   );
+}
+const TabNavigator = () => {
+  const { themeStyles } = useTheme();
+  return <Tab.Navigator initialRouteName='HomeScreen'
+    screenOptions={{
+      headerShown: false,
+      tabBarShowLabel: false,
+      tabBarStyle: {
+        height: 70,
+        paddingTop: 15,      // Thêm khoảng cách ở trên để căn giữa biểu tượng
+        paddingBottom: 10,
+        backgroundColor: themeStyles.background
+            
+      },
+    }}>
+    <Tab.Screen name='HomeScreen' component={HomeScreen}
+      options={{
+        tabBarIcon: ({ focused }) =>
+
+        (
+          <View style={{ alignItems: 'center', justifyContent: 'center' }}>
+            <Image
+              source={require('./images/home.png')}
+              style={{ height: 30, width: 30 }}
+            />
+            {focused && <View style={styles.dot} />}
+          </View>
+        ),
+      }}
+    />
+
+    <Tab.Screen name='SearchScreen' component={SearchScreen}
+      options={{
+        tabBarIcon: ({ focused }) =>
+        (<View style={{ alignItems: 'center', justifyContent: 'center' }}>
+          <Image
+            source={require('./images/search.png')}
+            style={{ height: 30, width: 30 }}
+          />
+          {focused && <View style={styles.dot} />}
+        </View>)
+      }} />
+
+    <Tab.Screen name='NotificationScreen' component={NotificationScreen}
+      options={{
+        tabBarBadge: 99,
+        tabBarBadgeStyle: {
+          backgroundColor: '#FF0000',
+          color: '#FFFFFF',
+          fontSize: 12,
+          fontWeight: 'bold',
+          minWidth: 18,
+          height: 18,
+          borderRadius: 9,
+          top: -10,
+          right: 10,
+        },
+        tabBarIcon: ({ focused }) =>
+        (<View style={{ alignItems: 'center', justifyContent: 'center' }}>
+          <Image
+            source={require('./images/notifi.png')}
+            style={{ height: 30, width: 30 }}
+          />
+
+          {focused && <View style={styles.dot} />}
+        </View>)
+
+      }} />
+
+    <Tab.Screen name='ProfileScreen' component={ProfileScreen}
+      options={{
+        tabBarIcon: ({ focused }) =>
+        (<View style={{ alignItems: 'center', justifyContent: 'center' }}>
+          <Image
+            source={require('./images/profile.png')}
+            style={{ height: 30, width: 30 }}
+          />
+          {focused && <View style={styles.dot} />}
+        </View>)
+      }} />
+  </Tab.Navigator>
 }
 
 const styles = StyleSheet.create({
@@ -113,6 +177,13 @@ const styles = StyleSheet.create({
   highlight: {
     fontWeight: '700',
   },
+  dot: {
+    width: 6,
+    height: 6,
+    backgroundColor: '#00796B',
+    borderRadius: 3,
+    marginTop: 4
+  }
 });
 
 export default App;
